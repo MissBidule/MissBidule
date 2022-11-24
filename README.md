@@ -14,7 +14,7 @@ These are some informations about me :
 Here are some projects I've worked on the past few years :
 
 Pokimac : A pokemon like in C and SDL
-<img width="900" alt="Pokimac" src="[https://user-images.githubusercontent.com/99469442/203804638-7da8ee3e-6a32-45b5-a424-5c03baff9066.png](https://user-images.githubusercontent.com/99469442/203804114-72a3a4ea-d13d-4102-b3b9-6e3dcc242fec.gif)">
+<img width="900" alt="Pokimac" src="https://user-images.githubusercontent.com/99469442/203804114-72a3a4ea-d13d-4102-b3b9-6e3dcc242fec.gif">
 
 [Childchemy](https://just-kiel.itch.io/childchemy) : A GameJam game about mixing things in JavaScript
 ![childchemy](https://user-images.githubusercontent.com/99469442/203804259-ecf96640-cbe4-469a-9a21-db3dd7faa3ee.gif)
