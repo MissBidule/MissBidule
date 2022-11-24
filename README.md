@@ -28,7 +28,7 @@ I made the drag and drop part of the project in order to "mix" items.
 Food vs Humanity : [repo](https://github.com/MissBidule/Food-vs-Humanity)  
 Language : C++, SDL, OpenGL  
 A game of simple food blocks getting eaten by mouths.  
-I made all the implementation and the base game to link OpenGL with the SDL2 lib, and created the datas for the levels (collision and stuff).
+I made all the implementation and the base game to link OpenGL with the SDL2 lib, and created the datas for the levels (collision and stuff).  
 <img width="450" alt="FvH" src="https://user-images.githubusercontent.com/99469442/203804523-70d21f6d-71cc-4d61-9512-e6b12ff00832.gif">
 
 Food vs Humanity : no repo  
