@@ -14,7 +14,9 @@ These are some informations about me :
 Here are some projects I've worked on the past few years :
 
 Pokimac : [repo](https://github.com/MissBidule/Pokimac)
+
 Language : C, C++, SDL
+
 A pokemon like.
 
 <img width="450" alt="Pokimac" src="https://user-images.githubusercontent.com/99469442/203804114-72a3a4ea-d13d-4102-b3b9-6e3dcc242fec.gif">
