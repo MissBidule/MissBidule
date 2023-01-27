@@ -13,9 +13,9 @@ These are some informations about me :
 
 Here are some projects I've worked on the past few years :  
 
-Grønn : [repo](https://github.com/MissBidule/Gronn)  
+Grønn : [repo](https://github.com/MissBidule/Gronn) [demo (soon...)]()  
 Technologies : C#, Unity  
-A serious game of mini games about the environment.  
+A serious game of mini games about the environment (not finished).  
 My team and I made a game project for a teacher in order to raise awareness in a fun way about the actual problems linked to the environment and how we must act to face it.
 I personnally made the planet's models and the 2 first mini-games.
 <img width="450" alt="Pokimac" src="https://user-images.githubusercontent.com/99469442/215154021-0dc8019c-c33a-4b30-808a-4c43cd5e3009.gif">
