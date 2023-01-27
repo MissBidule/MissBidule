@@ -5,13 +5,20 @@ At the moment, I am in an engineer school called [IMAC](https://www.ingenieur-im
 
 These are some informations about me :
 
-- 💻 I'm currently working on a Unity school project 
+- 💻 I'm currently looking for an internship as a game programmer 
 - 👩🏽‍💻 I've learned C++, Java, PHP, HTML/CSS, SQL, Assembly, FORTRAN, OpenGL, ThreeJs... and more
 - 💭 I want to become a Video Game developper
 - ❤️ I love the C++ language, video games, art, originality and creating stuff
 - 🤔 I think programming is a form of art
 
 Here are some projects I've worked on the past few years :  
+
+Grønn : [repo](https://github.com/MissBidule/Gronn)  
+Technologies : C#, Unity  
+A serious game of mini games about the environment.  
+My team and I made a game project for a teacher in order to raise awareness in a fun way about the actual problems linked to the environment and how we must act to face it.
+I personnally made the planet's models and the 2 first mini-games.
+<img width="450" alt="Pokimac" src="https://user-images.githubusercontent.com/99469442/215154021-0dc8019c-c33a-4b30-808a-4c43cd5e3009.gif">
 
 Pokimac : [repo](https://github.com/MissBidule/Pokimac)  
 Technologies : C, C++, SDL  
