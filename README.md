@@ -13,7 +13,7 @@ These are some informations about me :
 
 Here are some projects I've worked on the past few years :  
 
-Grønn : [repo](https://github.com/MissBidule/Gronn) [demo (soon...)]()  
+Grønn : [repo](https://github.com/MissBidule/Gronn) [demo](https://missbiduletruc.itch.io/gronn)  
 Technologies : C#, Unity  
 A serious game of mini games about the environment (not finished).  
 My team and I made a game project for a teacher in order to raise awareness in a fun way about the actual problems linked to the environment and how we must act to face it.
