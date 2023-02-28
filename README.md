@@ -13,6 +13,12 @@ These are some informations about me :
 
 Here are some projects I've worked on the past few years :  
 
+BreakTime : [repo](https://github.com/MissBidule/Gamejam_ShruggingCat_2023) [demo](https://just-kiel.itch.io/breaktime)  
+Technologies : Typescript  
+A GameJam "flash kind of" game about taking a break at work.  
+I made the animation system from sprites with an Oriented Object approach.  
+<img width="450" alt="breaktime" src="[https://user-images.githubusercontent.com/99469442/221816403-834500b7-93d5-44ba-a4e8-fdb52e19c26f.gif]">
+
 Grønn : [repo](https://github.com/MissBidule/Gronn) [demo](https://missbiduletruc.itch.io/gronn)  
 Technologies : C#, Unity  
 A serious game of mini games about the environment (in development).  
