@@ -5,7 +5,7 @@ At the moment, I am in an engineer school called [IMAC](https://www.ingenieur-im
 
 These are some informations about me :
 
-- 💻 I'm currently looking for an internship as a game programmer 
+- 💻 I'm currently doing an internship as a developer
 - 👩🏽‍💻 I've learned C++, Java, PHP, HTML/CSS, SQL, Assembly, FORTRAN, OpenGL, ThreeJs... and more
 - 💭 I want to become a Video Game developper
 - ❤️ I love the C++ language, video games, art, originality and creating stuff
