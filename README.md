@@ -1,17 +1,23 @@
 ### Hi and welcome to my profile 😊
 
 My real name is Lilou ALIDOR and MissBidule is my alias for all my creative stuff.
-At the moment, I am in an engineer school called [IMAC](https://www.ingenieur-imac.fr/) where I'm studying art and computer science.
+At the moment, I am in an Erasmus semester abroad for my studies in the engineer school called [IMAC](https://www.ingenieur-imac.fr/) where I'm studying art and computer science.
 
 These are some informations about me :
 
-- 💻 I'm currently doing an internship as a developer
+- 💻 I'm currently looking for an internship as a game developer
 - 👩🏽‍💻 I've learned C++, Java, PHP, HTML/CSS, SQL, Assembly, FORTRAN, OpenGL, ThreeJs... and more
 - 💭 I want to become a Video Game developper
 - ❤️ I love the C++ language, video games, art, originality and creating stuff
 - 🤔 I think programming is a form of art
 
 Here are some projects I've worked on the past few years :  
+
+My little cube world : [repo](https://github.com/MissBidule/OpenGL_TPs_S4)
+Technologies : C++, OpenGL, Open Asset Import Library
+A duo project to experiment with 3D models, shadows, animations and shaders with OpenGL.
+I made most of the project, from the models to the water and animation movements using Blender and the Assimp library.
+<img width="450" alt="breaktime" src="https://github.com/MissBidule/MissBidule/assets/99469442/ebd9f434-3927-4553-bf05-083c319f00bb">
 
 BreakTime : [repo](https://github.com/MissBidule/Gamejam_ShruggingCat_2023) [demo](https://just-kiel.itch.io/breaktime)  
 Technologies : Typescript  
