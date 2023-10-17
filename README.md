@@ -16,7 +16,7 @@ Here are some projects I've worked on the past few years :
 My little cube world : [repo](https://github.com/MissBidule/OpenGL_TPs_S4)
 Technologies : C++, OpenGL, Open Asset Import Library
 A duo project to experiment with 3D models, shadows, animations and shaders with OpenGL.
-I made most of the project, from the models to the water and animation movements using Blender and the Assimp library.
+I made most of the project, from the models to the water and animation movements using Blender and the Assimp library.  
 <img width="450" alt="breaktime" src="https://github.com/MissBidule/MissBidule/assets/99469442/ebd9f434-3927-4553-bf05-083c319f00bb">
 
 BreakTime : [repo](https://github.com/MissBidule/Gamejam_ShruggingCat_2023) [demo](https://just-kiel.itch.io/breaktime)  
