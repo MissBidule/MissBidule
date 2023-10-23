@@ -6,7 +6,7 @@ At the moment, I am in an Erasmus semester abroad for my studies in the engineer
 These are some information about me :
 
 - 💻 I'm currently looking for an internship as a game developer
-- 👩🏽‍💻 I've learned C++, Java, PHP, HTML/CSS, SQL, Assembly, FORTRAN, OpenGL, ThreeJs... and more
+- 👩🏽‍💻 I've learned C++, C#, OpenGL, ThreeJs, Java, PHP, HTML/CSS, SQL, Assembly, FORTRAN... and more
 - 💭 I want to become a Video Game developper
 - ❤️ I love the C++ language, video games, art, originality and creating stuff
 - 🤔 I think programming is a form of art
