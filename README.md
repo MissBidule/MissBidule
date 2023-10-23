@@ -13,7 +13,7 @@ These are some information about me :
 
 Here are some projects I've worked on the past few years :  
 
-My little cube world : [repo](https://github.com/MissBidule/OpenGL_TPs_S4)  
+Little cube world : [repo](https://github.com/MissBidule/OpenGL_TPs_S4)  
 Technologies : C++, OpenGL, Open Asset Import Library  
 A duo project to experiment with 3D models, shadows, animations and shaders with OpenGL.  
 I made most of the project, from the models to the water and animation movements using Blender and the Assimp library.  
