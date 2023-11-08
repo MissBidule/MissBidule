@@ -15,7 +15,7 @@ Here are some projects I've worked on the past few years :
 
 Ponggy-Foot : no repo [demo V2](https://missbiduletruc.itch.io/ponggy-foot-remastered) [demo V1](https://missbiduletruc.itch.io/ponggy-foot-prototype)  
 Technologies : Unity, C#  
-A mini game made during my 2023 internship as one of their monthly challenge on the company app.  
+A mini game made during my 2023 internship as one of the company's app's monthly challenge.  
 It was a quick solo project but still fun to do. It's a mix between baby-foot and Pong.  
 <img width="450" alt="PonggyFoot" src="https://github.com/MissBidule/MissBidule/assets/99469442/c87035b8-ba81-4d45-8488-f1d3ed2dac92">  
 
