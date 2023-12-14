@@ -11,7 +11,8 @@ These are some information about me :
 - ❤️ I love the C++ language, video games, art, originality and creating stuff
 - 🤔 I think programming is a form of art
 
-Here are some projects I've worked on the past few years :  
+If you'd like to see only my playable projects, you can directly go to my [itch.io page](https://missbiduletruc.itch.io/ponggy-foot-remastered) !
+In any case, here are some projects I've worked on the past few years :  
 
 Ponggy-Foot : no repo [demo V2](https://missbiduletruc.itch.io/ponggy-foot-remastered) [demo V1](https://missbiduletruc.itch.io/ponggy-foot-prototype)  
 Technologies : Unity, C#  
