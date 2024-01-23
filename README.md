@@ -32,7 +32,7 @@ A GameJam "flash kind of" game about taking a break at work.
 I made the animation system from sprites with an Object Oriented approach.  
 <img width="450" alt="breaktime" src="https://user-images.githubusercontent.com/99469442/221816403-834500b7-93d5-44ba-a4e8-fdb52e19c26f.gif">
 
-Grønn : [repo](https://github.com/MissBidule/Gronn) [demo](https://missbiduletruc.itch.io/gronn) [French trailer](https://youtu.be/7Wa0vTowl5A)
+Grønn : [repo](https://github.com/MissBidule/Gronn) [demo](https://missbiduletruc.itch.io/gronn) [French trailer](https://youtu.be/7Wa0vTowl5A)  
 Technologies : C#, Unity  
 A serious game of mini games about the environment (in development).  
 My team and I made a game project for a teacher in order to raise awareness in a fun way about the actual problems linked to the environment and how we must act to face it.
