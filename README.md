@@ -42,7 +42,7 @@ I personnally made the planet's models and the 2 first mini-games.
 Pokimac : [repo](https://github.com/MissBidule/Pokimac)  
 Technologies : C, C++, SDL  
 A pokemon like.  
-I've done all the SDL part and animation of the sprite. Using the code my teammate had done to optimize it and harmonize it with the code.  
+I've done all the SDL part and animation of the sprite. Using the code my teammate had done to optimize it and harmonize it with my overall code.  
 <img width="450" alt="Pokimac" src="https://user-images.githubusercontent.com/99469442/203804114-72a3a4ea-d13d-4102-b3b9-6e3dcc242fec.gif">
 
 Childchemy : [repo](https://github.com/MissBidule/Childchemy) [demo](https://just-kiel.itch.io/childchemy)  
