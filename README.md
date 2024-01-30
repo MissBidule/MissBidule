@@ -14,7 +14,7 @@ These are some information about me :
 If you'd like to see only my playable projects, you can directly go to my [itch.io page](https://missbiduletruc.itch.io/) !
 In any case, here are some projects I've worked on the past few years :  
 
-DRO it : [repo](https://missbiduletruc.itch.io/ponggy-foot-remastered)(https://github.com/MissBidule/DRO_it)  
+DRO it : [repo](https://github.com/MissBidule/DRO_it)  
 Technologies : Flutter, Dart  
 Mobile Application done during my Erasmus semester to chat with drawings only.  
 I made the drawing board and most of the communication between the Back and the Front as well as many UI corrections.  
