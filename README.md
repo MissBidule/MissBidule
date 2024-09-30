@@ -1,15 +1,16 @@
 ### Hi and welcome to my profile 😊
 
 My real name is Lilou ALIDOR and MissBidule is my alias for all my creative stuff.
-At the moment, I am in my end of year internship for my studies in the engineer school called [IMAC](https://www.ingenieur-imac.fr/) where I'm studying art and computer science.
+I am a creative engineer graduated from [IMAC](https://www.ingenieur-imac.fr/) where I was studying art and computer science.
 
 These are some information about me :
 
-- 💻 I'm currently looking for a job as a game developer
+- 💻 I'm currently looking for a job as a game developer or programmer in a creative field
 - 👩🏽‍💻 I've learned C++, C#, OpenGL, ThreeJs, Java, PHP, HTML/CSS, SQL, Assembly, FORTRAN... and more
 - 💭 I want to become a Video Game developper
 - ❤️ I love the C++ language, video games, art, originality and creating stuff
 - 🤔 I think programming is a form of art
+- 👾 I describe myself as an original nerdy girl
 
 If you'd like to see only my playable projects, you can directly go to my [itch.io page](https://missbiduletruc.itch.io/) !
 In any case, here are some projects I've worked on the past few years :  
