@@ -5,7 +5,7 @@ I am a creative engineer graduated from [IMAC](https://www.ingenieur-imac.fr/) w
 
 These are some information about me :
 
-- 💻 I'm currently looking for a job as a game developer or programmer in a creative field
+- 💻 I'm currently experiencing code on a home engine in C++ with the Metal API Graphics [which you can check it here !](https://github.com/MissBidule/HomeEngine)
 - 👩🏽‍💻 I've learned C++, C#, OpenGL, ThreeJs, Java, PHP, HTML/CSS, SQL, Assembly, FORTRAN... and more
 - 💭 I want to become a Video Game developper
 - ❤️ I love the C++ language, video games, art, originality and creating stuff
