@@ -15,10 +15,10 @@ These are some information about me :
 If you'd like to see only my playable projects, you can directly go to my [itch.io page](https://missbiduletruc.itch.io/) !
 In any case, here are some projects I've worked on the past few years :  
 
-Raytracing : [repo](https://github.com/MissBidule/ImageAndRaycasting)
-Technologies : C++, jpegLib, tinyObjLoader
-Experimentations with raytracing in solo. 
-In there, you can render spheres, planes and obj with blinn-phong, transparency, reflection and refraction. 
+Raytracing : [repo](https://github.com/MissBidule/ImageAndRaycasting)  
+Technologies : C++, jpegLib, tinyObjLoader  
+Experimentations with raytracing in solo.  
+In there, you can render spheres, planes and obj with blinn-phong, transparency, reflection and refraction.  
 It allows to create scenes and render them directly in jpeg. Because of jpeglib actual limitations, it seems to only work on Unix OS.  
 <img width="300" height="300" alt="DFQSFSF" src="https://github.com/user-attachments/assets/67325c94-45d6-4166-a7e9-492203c4fdcf">
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/c60bb63c-54b6-47cb-ae45-53a517130222">
