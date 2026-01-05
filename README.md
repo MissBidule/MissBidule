@@ -15,6 +15,13 @@ These are some information about me :
 If you'd like to see only my playable projects, you can directly go to my [itch.io page](https://missbiduletruc.itch.io/) !
 In any case, here are some projects I've worked on the past few years :  
 
+Deadly Dressed : [repo](https://github.com/MissBidule/Fashion-Crocmort/tree/main) [demo](https://xadosiv.itch.io/deadly-dressed)  
+Technologies : GDScript, godot  
+A mini game for an halloween themed Game Jam about dressing up corpses.  
+This game was made with the help of level designers and infographists in 2 days.  
+We were 3 developers and the goal is to patch up and dress corpses before giving them to their loved ones (mostly).  
+(Pictures coming later...)  
+
 Raytracing : [repo](https://github.com/MissBidule/ImageAndRaycasting)  
 Technologies : C++, jpegLib, tinyObjLoader  
 Experimentations with raytracing in solo.  
